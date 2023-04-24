@@ -1,9 +1,5 @@
 /*
- * ECE 153B - Winter 2023
- *
- * Name(s): Jackson Newman Michelle Ly
- * Section: W
- * Lab: 3B
+ * Jackson Newman
  */
  
 #include <stdio.h> 
@@ -144,7 +140,7 @@ int main(void) {
 
 	
 	while(1) {
-		// [TODO] Store your measurements on Stack
+
 		if (timeInterval / 58 > 400) {
 			distance = 0;
 		} else {
